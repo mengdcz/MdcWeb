@@ -1,4 +1,5 @@
 <?php
+namespace MdcWeb;
 /**
  * Created by PhpStorm.
  * User: Administrator
